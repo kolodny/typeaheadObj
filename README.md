@@ -5,6 +5,10 @@ Twitter Bootstrap Typeahead With Objects
 
 ---
 
+## [DEMO](http://goo.gl/AyMLC)
+
+--
+
 ## Sample Usage:
 
 ```javascript
@@ -39,6 +43,4 @@ $('#typeaheadObj').typeaheadObj({
     }
 });
 ```
-
-## [DEMO](http://goo.gl/AyMLC)
 
